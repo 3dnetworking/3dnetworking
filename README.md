@@ -1,16 +1,28 @@
-## Hi there 👋
+# 3D Networking
 
-<!--
-**3dnetworking/3dnetworking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional 3D and 2D Network Diagram Symbols and Templates for Microsoft Visio, Draw.io, Lucidchart and PowerPoint.
 
-Here are some ideas to get you started:
+🌐 Website: https://3d-networking.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We design professional network diagram resources for:
+
+- Cisco
+- AWS
+- Azure
+- Juniper
+- Fortinet
+- Palo Alto Networks
+- VMware
+- Veeam
+- Enterprise Data Centers
+- Cloud Infrastructure
+
+## Featured Repository
+
+⭐ **Free 3D Network Symbols for Microsoft Visio**
+
+Professional VSDX network symbols for enterprise network diagrams.
+
+🔗 https://github.com/3dnetworking/3D-Network-Symbols-Pack-Free
+
+🌐 https://3d-networking.com
